@@ -5,7 +5,6 @@
 # debugpy.listen(5678)
 # debugpy.wait_for_client()
 
-
 from getposition import main
 
 #ROS imports
