@@ -1,3 +1,3 @@
  <launch>
-    <node pkg="ugps" type="ugps_node" name="ugps_node" output="screen"/>
+    <node pkg="ugps" type="ugps_node.py" name="ugps_node" output="screen"/>
   </launch>
