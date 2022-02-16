@@ -1,2 +1,2 @@
-# UGPS
-Repo for UGPS
+# ugps
+Repo for ugps
